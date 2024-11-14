@@ -4,12 +4,12 @@ Tugas Pemograman berbasis objek, materi tentang pembuatan ATM berbasis JAVA
 <--!IMAGE HASIL PEMOGRAMAN-->
 <--!SOAL 1-->
 <--!KETIKA PIN DIUBAH-->
-<img src = "![image](https://github.com/user-attachments/assets/462bad6e-ad5d-48ab-9231-34a747e25ed1)" >
+ <"![image](https://github.com/user-attachments/assets/462bad6e-ad5d-48ab-9231-34a747e25ed1)" >
 <<------||Penjelasan Soal Nomor 1||--------->>
   Didalam Source code java ini awalnya saya memasukkan pin yang sama dengan yang sudah tertera didalam program yang sudah diberikan yang dimana dengan Id berupa : 123456, Dan PIN : 1234, Diganti dengan PIN yang sudah diubah didalam program menjadi "5555" dan menunjukkan bahwa perubahan Pin berhasil mengggunakan kode "5555"
 <--!SOAL 2-->
 <--!VALIDASI SALDO MINIMAL-->
-<img src = "![image](https://github.com/user-attachments/assets/65f21343-76e7-45bf-90a8-516b9ae89691)" >
+ <"![image](https://github.com/user-attachments/assets/65f21343-76e7-45bf-90a8-516b9ae89691)" >
 <<------||Penjelasan Soal Nomor 2||------>>
   Didalam Source code ini awalnya saya memasukkan saldo penarikan yang dimana saldo tersebut berisi 5000000, dan saya menarik 50000 dengan adanya limit
 
